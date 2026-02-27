@@ -6,6 +6,7 @@ class AppColors {
   static const Color primary = Color(0xFF4E6CF0);
   static const Color primaryDark = Color(0xFF3B59E6);
   static const Color onPrimary = Color(0xFFFFFFFF);
+  static const Color splashBlue = Color(0xFFD4DCFF);
 
   static const Color scaffoldBackground = Color(0xFFF3F3F5);
   static const Color surface = Color(0xFFFFFFFF);
